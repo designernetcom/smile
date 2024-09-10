@@ -4621,6 +4621,13 @@ a:hover {
 .social-topp i {
     line-height: 1.4 ;
 }
+
+@media only screen and (max-width: 480px){
+    .social-topp i {
+        line-height: 1.1 ;
+    }
+
+}
 .privacy-data ul {
     margin-bottom: 30px;
 }
